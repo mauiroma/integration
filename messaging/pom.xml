@@ -5,6 +5,7 @@
         <groupId>com.redhat.integration</groupId>
         <artifactId>parent</artifactId>
         <version>1.0.0.GA</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>messaging</artifactId>
     <packaging>war</packaging>
