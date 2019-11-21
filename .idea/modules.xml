@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fuse/fuse-rest/fuse-rest-product.iml" filepath="$PROJECT_DIR$/fuse/fuse-rest/fuse-rest-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fuse/fuse-webservice/fuse-webservice-account.iml" filepath="$PROJECT_DIR$/fuse/fuse-webservice/fuse-webservice-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/order-process-service/kafka-order-process-service.iml" filepath="$PROJECT_DIR$/kafka/order-process-service/kafka-order-process-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/order-service/kafka-order-service.iml" filepath="$PROJECT_DIR$/kafka/order-service/kafka-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/shipment-service/kafka-shipment-service.iml" filepath="$PROJECT_DIR$/kafka/shipment-service/kafka-shipment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messaging/messaging.iml" filepath="$PROJECT_DIR$/messaging/messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+    </modules>
+  </component>
+</project>

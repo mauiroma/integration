@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fuse-rest-product" />
+        <module name="fuse-webservice-account" />
+        <module name="kafka-order-service" />
+        <module name="messaging" />
+        <module name="kafka-order-process-service" />
+        <module name="kafka-shipment-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fuse-rest-product" target="1.8" />
+      <module name="fuse-webservice-account" target="1.8" />
+      <module name="kafka-order-process-service" target="1.8" />
+      <module name="kafka-order-service" target="1.8" />
+      <module name="kafka-shipment-service" target="1.8" />
+      <module name="messaging" target="1.8" />
+      <module name="parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
